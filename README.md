@@ -2,7 +2,7 @@
 
 ### My name is Alexey Prokopov :raising_hand: 
 
-I am a beginner in the field of Data Analyst and Data Science.
+I am a beginner in the field of Data Analyst and Data Scientist.
 I want to grow and develop professionally in the IT and ML fields.
 
 #### Data Science:
